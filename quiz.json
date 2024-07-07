@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge on ways to make money.",
+  "questions": [
+    {
+      "question": "Stock market gains?",
+      "answers": ["Bonds", "Shares", "CDs"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Selling crafts online?",
+      "answers": ["Etsy", "eBay", "Amazon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Rental income source?",
+      "answers": ["Gold", "Stocks", "Property"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Invest in real estate?",
+      "answers": ["REITs", "Bonds", "ETFs"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Freelance platform?",
+      "answers": ["Upwork", "Slack", "Zoom"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Sell handmade items?",
+      "answers": ["Etsy", "Uber", "Lyft"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Peer-to-peer lending?",
+      "answers": ["Bonds", "CDs", "Loans"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Write articles for?",
+      "answers": ["Medium", "GitHub", "Zoom"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dropshipping site?",
+      "answers": ["Shopify", "Facebook", "eBay"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Sell designs?",
+      "answers": ["Etsy", "Redbubble", "Uber"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Passive income source?",
+      "answers": ["Blog", "CDs", "Stocks"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Get paid for surveys?",
+      "answers": ["Swagbucks", "Lyft", "Zoom"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Freelance writing?",
+      "answers": ["Fiverr", "GitHub", "Slack"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Online courses?",
+      "answers": ["Udemy", "Twitter", "Reddit"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Invest in crypto?",
+      "answers": ["Stocks", "Bitcoin", "Bonds"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Earn from podcasts?",
+      "answers": ["Ads", "Tips", "Likes"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Real estate agent?",
+      "answers": ["Sells", "Buys", "Rents"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Pet sitting site?",
+      "answers": ["Rover", "Fiverr", "Etsy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Create a blog on?",
+      "answers": ["WordPress", "Slack", "Zoom"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Online tutoring?",
+      "answers": ["Chegg", "Uber", "Etsy"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
